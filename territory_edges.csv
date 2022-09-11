@@ -1,0 +1,165 @@
+source,target,weight,defense_prob,conquer_prob
+Scandinavia,Iceland,,,
+Scandinavia,Northern Europe,0.959,0.041,0.959
+Scandinavia,Ukraine,0.803,0.197,0.803
+Scandinavia,Great Britain,,,
+Northern Europe,Western Europe,0.101,0.899,0.101
+Northern Europe,Ukraine,,,
+Northern Europe,Scandinavia,0.024,0.976,0.024
+Northern Europe,Great Britain,0.047,0.953,0.047
+Northern Europe,Southern Europe,0.101,0.899,0.101
+Egypt,North Africa,0.803,0.197,0.803
+Egypt,Middle East,0.803,0.197,0.803
+Egypt,East Africa,0.803,0.197,0.803
+Egypt,Southern Europe,0.803,0.197,0.803
+Ontario,Eastern US,0.771,0.229,0.771
+Ontario,Northwest Territory,0.771,0.229,0.771
+Ontario,Quebec,0.884,0.116,0.884
+Ontario,Western US,0.771,0.229,0.771
+Ontario,Greenland,0.884,0.116,0.884
+Ontario,Alberta,0.771,0.229,0.771
+East Africa,South Africa,0.742,0.258,0.742
+East Africa,Madagascar,0.742,0.258,0.742
+East Africa,Egypt,0.101,0.899,0.101
+East Africa,Congo,0.335,0.665,0.335
+East Africa,North Africa,0.335,0.665,0.335
+South Africa,East Africa,0.101,0.899,0.101
+South Africa,Congo,0.101,0.899,0.101
+South Africa,Madagascar,,,
+Southern Europe,Ukraine,0.335,0.665,0.335
+Southern Europe,North Africa,,,
+Southern Europe,Middle East,,,
+Southern Europe,Western Europe,,,
+Southern Europe,Northern Europe,0.742,0.258,0.742
+Southern Europe,Egypt,0.101,0.899,0.101
+Japan,Kamchatka,,,
+Japan,Mongolia,0.654,0.346,0.654
+Congo,North Africa,,,
+Congo,South Africa,0.742,0.258,0.742
+Congo,East Africa,0.335,0.665,0.335
+Mongolia,Kamchatka,0.335,0.665,0.335
+Mongolia,China,0.181,0.819,0.181
+Mongolia,Japan,0.181,0.819,0.181
+Mongolia,Siberia,,,
+Mongolia,Irkutsk,0.181,0.819,0.181
+Iceland,Scandinavia,,,
+Iceland,Great Britain,,,
+Iceland,Greenland,0.101,0.899,0.101
+Peru,Brazil,0.181,0.819,0.181
+Peru,Argentina,0.335,0.665,0.335
+Peru,Venezuela,0.335,0.665,0.335
+Siberia,Ural,0.335,0.665,0.335
+Siberia,Irkutsk,0.181,0.819,0.181
+Siberia,Yakutsk,0.181,0.819,0.181
+Siberia,Mongolia,,,
+Siberia,China,0.181,0.819,0.181
+Great Britain,Iceland,,,
+Great Britain,Western Europe,0.654,0.346,0.654
+Great Britain,Northern Europe,0.915,0.085,0.915
+Great Britain,Scandinavia,,,
+Alberta,Northwest Territory,0.454,0.546,0.454
+Alberta,Alaska,0.196,0.804,0.196
+Alberta,Western US,0.454,0.546,0.454
+Alberta,Ontario,0.196,0.804,0.196
+Argentina,Peru,0.335,0.665,0.335
+Argentina,Brazil,0.181,0.819,0.181
+Siam,India,0.972,0.028,0.972
+Siam,China,0.938,0.062,0.938
+Siam,Indonesia,,,
+Eastern Australia,New Guinea,0.654,0.346,0.654
+Eastern Australia,Western Australia,0.654,0.346,0.654
+Indonesia,New Guinea,0.101,0.899,0.101
+Indonesia,Western Australia,0.101,0.899,0.101
+Indonesia,Siam,,,
+Middle East,Southern Europe,,,
+Middle East,Ukraine,0.335,0.665,0.335
+Middle East,Egypt,0.101,0.899,0.101
+Middle East,India,,,
+Middle East,Afghanistan,0.335,0.665,0.335
+Ukraine,Southern Europe,0.335,0.665,0.335
+Ukraine,Middle East,0.335,0.665,0.335
+Ukraine,Ural,0.335,0.665,0.335
+Ukraine,Afghanistan,,,
+Ukraine,Northern Europe,,,
+Ukraine,Scandinavia,0.101,0.899,0.101
+Venezuela,Brazil,0.181,0.819,0.181
+Venezuela,Peru,0.335,0.665,0.335
+Venezuela,Central America,,,
+New Guinea,Indonesia,0.742,0.258,0.742
+New Guinea,Eastern Australia,0.181,0.819,0.181
+New Guinea,Western Australia,,,
+Eastern US,Central America,0.915,0.085,0.915
+Eastern US,Ontario,0.196,0.804,0.196
+Eastern US,Quebec,,,
+Eastern US,Western US,,,
+Alaska,Alberta,0.771,0.229,0.771
+Alaska,Kamchatka,0.884,0.116,0.884
+Alaska,Northwest Territory,,,
+Yakutsk,Siberia,0.654,0.346,0.654
+Yakutsk,Irkutsk,,,
+Yakutsk,Kamchatka,0.654,0.346,0.654
+Afghanistan,China,0.181,0.819,0.181
+Afghanistan,Ukraine,,,
+Afghanistan,Ural,0.335,0.665,0.335
+Afghanistan,Middle East,0.335,0.665,0.335
+Afghanistan,India,0.335,0.665,0.335
+China,Afghanistan,0.654,0.346,0.654
+China,Mongolia,0.654,0.346,0.654
+China,India,0.654,0.346,0.654
+China,Ural,,,
+China,Siberia,0.654,0.346,0.654
+China,Siam,0.062,0.938,0.062
+Western Europe,Northern Europe,0.742,0.258,0.742
+Western Europe,Southern Europe,,,
+Western Europe,Great Britain,0.181,0.819,0.181
+Western Europe,North Africa,,,
+Irkutsk,Siberia,0.654,0.346,0.654
+Irkutsk,Kamchatka,0.654,0.346,0.654
+Irkutsk,Yakutsk,,,
+Irkutsk,Mongolia,0.654,0.346,0.654
+North Africa,Southern Europe,,,
+North Africa,Brazil,,,
+North Africa,Egypt,0.101,0.899,0.101
+North Africa,Congo,,,
+North Africa,Western Europe,,,
+North Africa,East Africa,0.335,0.665,0.335
+Brazil,Peru,0.654,0.346,0.654
+Brazil,Venezuela,0.654,0.346,0.654
+Brazil,North Africa,,,
+Brazil,Argentina,0.654,0.346,0.654
+Ural,Siberia,0.335,0.665,0.335
+Ural,Ukraine,0.335,0.665,0.335
+Ural,Afghanistan,0.335,0.665,0.335
+Ural,China,,,
+Western Australia,New Guinea,,,
+Western Australia,Eastern Australia,0.181,0.819,0.181
+Western Australia,Indonesia,0.742,0.258,0.742
+Kamchatka,Mongolia,0.335,0.665,0.335
+Kamchatka,Japan,,,
+Kamchatka,Irkutsk,0.181,0.819,0.181
+Kamchatka,Alaska,0.061,0.939,0.061
+Kamchatka,Yakutsk,0.181,0.819,0.181
+Quebec,Eastern US,,,
+Quebec,Ontario,0.061,0.939,0.061
+Quebec,Greenland,0.335,0.665,0.335
+Northwest Territory,Greenland,0.654,0.346,0.654
+Northwest Territory,Alberta,0.454,0.546,0.454
+Northwest Territory,Ontario,0.196,0.804,0.196
+Northwest Territory,Alaska,,,
+Central America,Eastern US,0.047,0.953,0.047
+Central America,Venezuela,,,
+Central America,Western US,0.047,0.953,0.047
+Greenland,Northwest Territory,0.181,0.819,0.181
+Greenland,Iceland,0.742,0.258,0.742
+Greenland,Quebec,0.335,0.665,0.335
+Greenland,Ontario,0.061,0.939,0.061
+Madagascar,East Africa,0.101,0.899,0.101
+Madagascar,South Africa,,,
+India,China,0.181,0.819,0.181
+India,Siam,0.017,0.983,0.017
+India,Middle East,,,
+India,Afghanistan,0.335,0.665,0.335
+Western US,Eastern US,,,
+Western US,Ontario,0.196,0.804,0.196
+Western US,Alberta,0.454,0.546,0.454
+Western US,Central America,0.915,0.085,0.915

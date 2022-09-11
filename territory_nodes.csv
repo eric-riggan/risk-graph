@@ -1,0 +1,43 @@
+name,group,strength,owner
+Scandinavia,Europe,4,3
+Northern Europe,Europe,1,2
+Egypt,Africa,4,2
+Ontario,North America,5,3
+East Africa,Africa,2,3
+South Africa,Africa,1,2
+Southern Europe,Europe,2,1
+Japan,Asia,3,2
+Congo,Africa,2,1
+Mongolia,Asia,2,1
+Iceland,Europe,1,3
+Peru,South America,2,2
+Siberia,Asia,2,1
+Great Britain,Europe,3,3
+Alberta,North America,3,2
+Argentina,South America,2,3
+Siam,Asia,8,2
+Eastern Australia,Australia,3,2
+Indonesia,Australia,1,2
+Middle East,Asia,2,1
+Ukraine,Europe,2,2
+Venezuela,South America,2,3
+New Guinea,Australia,2,3
+Eastern US,North America,3,1
+Alaska,North America,5,1
+Yakutsk,Asia,3,3
+Afghanistan,Asia,2,2
+China,Asia,3,3
+Western Europe,Europe,2,1
+Irkutsk,Asia,3,3
+North Africa,Africa,2,1
+Brazil,South America,3,1
+Ural,Asia,2,3
+Western Australia,Australia,2,3
+Kamchatka,Asia,2,2
+Quebec,North America,2,1
+Northwest Territory,North America,3,1
+Central America,North America,1,3
+Greenland,North America,2,2
+Madagascar,Africa,1,2
+India,Asia,2,1
+Western US,North America,3,1
